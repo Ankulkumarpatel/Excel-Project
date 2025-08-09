@@ -7,7 +7,7 @@ This repository contains Excel VBA projects with dashboards and automation.
 ## 📁 Project List
 
 1. [Inventory Management System](Inventory)
-2. [HR Analysis](HR-Analysis/)
+2. [Furniture Sales Dashboard] 
 3. [Sales Analysis](Sales-Analysis/)
 4. 
 
